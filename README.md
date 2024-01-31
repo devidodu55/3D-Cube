@@ -1,2 +1,2 @@
 # 3D-Cube
-it's a 3D cube made in python with PyGame and pyOpenGL
+it's a graphics engine made in python with PyGame and PyOpenGL that displays a cube that rotates and is colored
